@@ -1,7 +1,6 @@
 ﻿using System;
 class BooleanConstantApp
 {
- 
     public static void Main()
     {
         Console.WriteLine("TRUE OR TRUE = " + (true || true));
