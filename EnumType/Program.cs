@@ -6,7 +6,7 @@ class EnumTypeApp
     {
         Color c = Color.Red;
         c++;
-        int i = (int)c; //정수형 
+        int i = (int)c; //정수형
         Console.WriteLine("Cardinality of " + c + " = " + i);
     }
 }
