@@ -1,7 +1,6 @@
 ﻿using System;
 class RealConstantApp
 {
-    
     public static void Main()
     {
         float f1 = 1.414F, f2 = 0.1414e01f;
